@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "China"
 title                    : "Xun Zhu"
 title_separator          : "-"
 name                     : &name "Xun Zhu"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : jayrobw
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Xun Zhu"
   avatar           : "profile.png"
-  bio              : "Data Scientist"
-  location         :
+  bio              : "Master student in Artificial Intelligence"
+  location         : "Beijing University of Posts and Telecommunications, Beijing, China"
   employer         :
   pubmed           :
   orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  googlescholar    : 
   email            : "zhuxun@bipt.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -99,15 +99,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jayrobwilliams"
-  gitlab           : "jayrobwilliams"
+  github           : "bycnfz"
+  gitlab           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jayrobwilliams"
-  mastodon         : "fosstodon.org/@jayrobw"
+  linkedin         : 
+  mastodon         :
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
@@ -211,6 +211,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -248,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
