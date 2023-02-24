@@ -6,5 +6,5 @@ date: 2023-01-20
 venue: 'PS: Political Science & Politics'
 paperurl: '/files/Weather2K.pdf'
 link: 'https://aistats.org/aistats2023/accepted.html'
-citation: 'Williams, Rob. 2022. &quot;Teaching Programming Skills in Methods Courses is an Opportunity, not a Burden.&quot; <i>PS: Political Science & Politics</i> 55(1): 221-224. doi:10.1017/S1049096521001153'
+citation: 'Zhu, Xun, Yutong Xiong, Ming-Chang Wu, Gaozhen Nie, Bin Zhang and Ziheng Yang. “Weather2K: A Multivariate Spatio-Temporal Benchmark Dataset for Meteorological Forecasting Based on Real-Time Observation Data from Ground Weather Stations.” (2023). arXiv:2302.10493'
 ---
