@@ -1,5 +1,5 @@
 ---
-title: "Teaching Programming Skills in Methods Courses is an Opportunity, not a Burden"
+title: "Weather2K: A Multivariate Spatio-Temporal Benchmark Dataset for Meteorological Forecasting Based on Real-Time Observation Data from Ground Weather Stations"
 collection: publications
 permalink: /publication/2022-teaching-programming
 date: 2022-01-01
