@@ -16,6 +16,7 @@ I earned my B.E. in Communication Engineering from the School of Information and
 I am now interested in Deep Learning, Computer Vision, and MultiModal Machine Learning.
 And the application of artificial intelligence in the real world, especially in the fields of remote sensing and meteorology, is also fascinating to me.
 My academic work has been [published](publications) or is forthcoming at conferences such as AISTATS, IEEE VCIP, and IEEE CCIS.
-This [research](research) elaborates main areas and ideas of my recent work.
+
+#This [research](research) elaborates main areas and ideas of my recent work.
 
 I will be graduated in 2024 and I am eagerly looking for Ph.D. positions. If you are interested in my works, please feel free to send me emails (zhuxun@bupt.edu.cn).
